@@ -1,0 +1,412 @@
+[
+  {
+    "url": "https://accelerator.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://ads1.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://account.google.com",
+    "status": 200,
+    "title": "Learn More About Google's Secure and Protected Accounts - Google",
+    "tech": [
+      "Google Tag Manager",
+      "HTTP/3"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://about.google.com",
+    "status": 200,
+    "title": "About Google: Our products, technology and company information - About Google",
+    "tech": [
+      "Google Tag Manager",
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://aa.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://borgmon.evenflow-test.adz.google.com",
+    "status": 400,
+    "title": "\u00dcberProxy: Error 400",
+    "tech": [],
+    "server": ""
+  },
+  {
+    "url": "https://adplanner.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://captive.adservice.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://actions.google.com",
+    "status": 200,
+    "title": "Google Assistant \u00a0|\u00a0 Google for Developers",
+    "tech": [
+      "Google Cloud",
+      "Google Cloud Load Balancing",
+      "Google Cloud Trace",
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "Google Frontend"
+  },
+  {
+    "url": "https://admob.google.com",
+    "status": 200,
+    "title": "Google AdMob - Earn More With Mobile App Monetization",
+    "tech": [
+      "Google Hosted Libraries",
+      "Google Tag Manager",
+      "HTTP/3"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://adservice.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://admanager.google.com",
+    "status": 200,
+    "title": "Redirecting...",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://adx.google.com",
+    "status": 200,
+    "title": "Redirecting...",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://adsense.google.com",
+    "status": 200,
+    "title": "Google AdSense - Earn Money from Your Website with Monetization",
+    "tech": [
+      "HTTP/3",
+      "YouTube"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://adwords-sandbox.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://mtls.accounts.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [],
+    "server": ""
+  },
+  {
+    "url": "https://ads-external-devel.qa.adz.google.com",
+    "status": 200,
+    "title": "ads-external-devel.qa.adz.google.com - Google Single Sign On: Sign into corp",
+    "tech": [
+      "HSTS"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://actualities.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": ""
+  },
+  {
+    "url": "https://adviser.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://aboutme.google.com",
+    "status": 200,
+    "title": "About me",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://ads.google.com",
+    "status": 200,
+    "title": "Reach Customers Across YouTube & Search - Google Ads",
+    "tech": [
+      "Bootstrap",
+      "HSTS",
+      "HTTP/3",
+      "Material Design Lite",
+      "reCAPTCHA"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://frame.ads-devel.qa.adz.google.com",
+    "status": 200,
+    "title": "frame.ads-devel.qa.adz.google.com - Google Single Sign On: Sign into corp",
+    "tech": [
+      "HSTS"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://www.google.com",
+    "status": 200,
+    "title": "Google",
+    "tech": [
+      "Google Web Server",
+      "HTTP/3"
+    ],
+    "server": "gws"
+  },
+  {
+    "url": "https://advisor.google.com",
+    "status": 404,
+    "title": "Error 404 (Not Found)!!1",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://borgmon.evenflow.adz.google.com",
+    "status": 400,
+    "title": "\u00dcberProxy: Error 400",
+    "tech": [],
+    "server": ""
+  },
+  {
+    "url": "https://academico.google.com",
+    "status": 200,
+    "title": "Google Scholar",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "scholar"
+  },
+  {
+    "url": "https://accounts.google.com",
+    "status": 200,
+    "title": "Sign in - Google Accounts",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://ads-external-prod.qa.adz.google.com",
+    "status": 200,
+    "title": "ads-external-prod.qa.adz.google.com - Google Single Sign On: Sign into corp",
+    "tech": [
+      "HSTS"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://activity.google.com",
+    "status": 200,
+    "title": "Welcome to My Activity",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://360suite.google.com",
+    "status": 200,
+    "title": "Google Analytics",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://google.com",
+    "status": 200,
+    "title": "Google",
+    "tech": [
+      "Google Web Server",
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "gws"
+  },
+  {
+    "url": "https://1.google.com",
+    "status": 200,
+    "title": "Get more storage, more AI capabilities and more features \u2013 Google\u00a0One",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "sffe"
+  },
+  {
+    "url": "https://actionscenter.google.com",
+    "status": 200,
+    "title": "Sign in - Google Accounts",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://adwords.google.com",
+    "status": 200,
+    "title": "Reach Customers Across YouTube & Search - Google Ads",
+    "tech": [
+      "Bootstrap",
+      "HSTS",
+      "HTTP/3",
+      "Material Design Lite",
+      "reCAPTCHA"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://admin.google.com",
+    "status": 302,
+    "title": "302 Moved",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "scaffolding on HTTPServer2"
+  },
+  {
+    "url": "https://console.actions.google.com",
+    "status": 200,
+    "title": "Sign in - Google Accounts",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://adsdatahub.google.com",
+    "status": 200,
+    "title": "Sign in - Google Accounts",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://adssettings.google.com",
+    "status": 200,
+    "title": "Ads Settings",
+    "tech": [
+      "HTTP/3"
+    ],
+    "server": "content-ads-prefmgr"
+  },
+  {
+    "url": "https://www.adwords.google.com",
+    "status": 200,
+    "title": "Reach Customers Across YouTube & Search - Google Ads",
+    "tech": [
+      "Bootstrap",
+      "HSTS",
+      "HTTP/3",
+      "Material Design Lite",
+      "reCAPTCHA"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://sites.google.com",
+    "status": 200,
+    "title": "Google Drive: Sign-in",
+    "tech": [
+      "HSTS",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://www.ads.google.com",
+    "status": 200,
+    "title": "Reach Customers Across YouTube & Search - Google Ads",
+    "tech": [
+      "Bootstrap",
+      "HSTS",
+      "HTTP/3",
+      "Material Design Lite",
+      "reCAPTCHA"
+    ],
+    "server": "ESF"
+  },
+  {
+    "url": "https://adstransparency.google.com",
+    "status": 200,
+    "title": "",
+    "tech": [
+      "Google Analytics",
+      "HTTP/3"
+    ],
+    "server": "ESF"
+  }
+]

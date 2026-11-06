@@ -1,0 +1,17 @@
+autorecon - authorized testing only
+In scope:     *.google.com
+Out of scope: -
+[11:21:29] Stage 1: passive subdomain enumeration
+[11:21:29]   skip subfinder (not installed)
+[11:21:31]   assetfinder: 52 results
+[11:29:53]   amass: 32 results
+[11:29:53]   84 found, 53 in scope, 31 dropped by scope
+[11:29:53] Stage 2: live host probing (httpx)
+[11:30:17]   42 live hosts
+[11:30:17] Stage 3: URL / endpoint collection
+[11:36:07]   gau: 9998 urls
+[11:36:07]   skip waybackurls (not installed)
+[11:46:08]   timeout: katana
+[11:46:08]   katana: 0 urls
+[11:46:08]   9936 in-scope non-static urls
+[11:46:08] Done. Report: /home/bughunter/autorecon/web_jobs/12256115087f/out/google.com_20261106_112129/report.md

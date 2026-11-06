@@ -1,0 +1,11 @@
+cpanel.wcem.in
+cpcalendars.wcem.in
+cpcontacts.wcem.in
+mail.wcem.in
+wcem.in
+webdisk.wcem.in
+webmail.wcem.in
+www.aasaanhealthcare.wcem.in
+www.admin.wcem.in
+www.blog.wcem.in
+www.wcem.in

@@ -1,0 +1,20 @@
+{
+  "domain": "google.com",
+  "subdomains": 53,
+  "live": 42,
+  "urls": 9936,
+  "interesting_hosts": [
+    "admin.google.com",
+    "ads-external-devel.qa.adz.google.com",
+    "ads-external-prod.qa.adz.google.com",
+    "adwords-sandbox.google.com",
+    "borgmon.evenflow-test.adz.google.com",
+    "frame.ads-devel.qa.adz.google.com"
+  ],
+  "status_groups": {
+    "404": 11,
+    "200": 28,
+    "400": 2,
+    "302": 1
+  }
+}

@@ -1,0 +1,13 @@
+autorecon - authorized testing only
+In scope:     *.wcem.in
+Out of scope: -
+[12:28:54] Stage 1: passive subdomain enumeration
+[12:28:54]   skip subfinder (not installed)
+[12:28:54]   amass: 0 results
+[12:29:53]   assetfinder: 32 results
+[12:29:53]   11 found, 11 in scope, 0 dropped by scope
+[12:29:53] Stage 2: live host probing (httpx)
+[12:30:02]   2 live hosts
+[12:30:02] Stage 3: URL / endpoint collection
+[12:36:42]   gau: 1 urls
+[12:36:42]   skip waybackurls (not installed)

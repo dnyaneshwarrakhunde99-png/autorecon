@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://www.wcem.in",
+    "status": 200,
+    "title": "Best College in Nagpur for Quality Education & Careers India",
+    "tech": [
+      "Cloudflare",
+      "Cloudflare Bot Management",
+      "HSTS",
+      "HTTP/3",
+      "Lodash",
+      "React",
+      "Wix"
+    ],
+    "server": "cloudflare"
+  },
+  {
+    "url": "https://wcem.in",
+    "status": 200,
+    "title": "Best College in Nagpur for Quality Education & Careers India",
+    "tech": [
+      "Cloudflare",
+      "Cloudflare Bot Management",
+      "HSTS",
+      "HTTP/3",
+      "Lodash",
+      "React",
+      "Wix"
+    ],
+    "server": "cloudflare"
+  }
+]
